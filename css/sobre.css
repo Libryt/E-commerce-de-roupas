@@ -6,7 +6,8 @@ body{
     width: 940px;
 }
 /* Títulos */
-h1{
+
+#titulo{
     background-image: url(../img/sobre-background.jpg);
     padding: 10px;
 }
