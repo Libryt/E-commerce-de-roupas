@@ -47,3 +47,44 @@ header{
     margin: 0 auto;
     width: 940px;
 }
+
+/* Busca e menu departamentos */
+.busca,
+.menu-departamentos {
+background-color:#DCDCDC;
+font-weight: bold;
+text-transform: uppercase;
+margin-right: 10px;
+margin-top:10px;
+padding-bottom: 10px;
+width: 230px;
+float: left;
+}
+
+.busca h2,
+ .busca form,
+ .menu-departamentos h2{
+ margin: 10px;
+}
+
+.menu-departamentos li {
+    background-color: White;
+    margin-bottom: 1px;
+    padding: 5px 10px;
+}
+.menu-departamentos a {
+color: #333333;
+text-decoration: none;
+}
+
+.menu-departamentos {
+    clear: left;
+}
+.busca input[type=search] {
+    width:170px;
+}
+
+.destaque{
+    margin-top:10px;
+    padding-bottom: 10px;
+}
